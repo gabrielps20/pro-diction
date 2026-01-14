@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dicção Pro - Native Pronunciation",
+  "description": "Improve your diction by finding native speakers on YouTube and receiving AI-powered phonetic analysis and real-time speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
